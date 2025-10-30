@@ -1,0 +1,14 @@
+[
+  {
+    "id": "user-1",
+    "username": "alice",
+    "role": "user",
+    "apiKey": "key-alice-123"
+  },
+  {
+    "id": "user-2",
+    "username": "bob",
+    "role": "admin",
+    "apiKey": "key-bob-admin-456"
+  }
+]
